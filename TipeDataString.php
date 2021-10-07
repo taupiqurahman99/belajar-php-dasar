@@ -10,11 +10,3 @@ echo "\n";
 
 echo "Nama : ";
 echo "Taupiqurahman\n";
-
-//
-
-echo <<<EKO
-'Selamat Belajar PHP
-Sekarang kita belajar tipe data string dengan
-menggunakan heredoc'
-EKO;
